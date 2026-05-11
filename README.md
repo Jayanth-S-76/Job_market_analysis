@@ -1,4 +1,4 @@
-# Job_market_analysis
+# Job Market Analysis
 Project: Job Market Analysis using SQL and Power BI
 Type: Data Analyst Internship Project
 Year: 2026
