@@ -162,21 +162,6 @@ Example:
 
 ---
 
-# 📁 Project Structure
-
-```bash
-Job-Market-Analysis/
-│
-├── queries.sql
-├── dashboard_Job_analysis.pbix
-├── Job_Market_Analysis_Presentation.pptx
-├── Project_Report.pdf
-├── Screenshots/
-└── README.md
-```
-
----
-
 # 🚀 How to Run the Project
 
 1. Open `dashboard_Job_analysis.pbix` in Power BI Desktop
