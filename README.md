@@ -167,7 +167,6 @@ Example:
 ```bash
 Job-Market-Analysis/
 │
-├── jobs_dataset.csv
 ├── queries.sql
 ├── dashboard_Job_analysis.pbix
 ├── Job_Market_Analysis_Presentation.pptx
