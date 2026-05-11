@@ -150,18 +150,6 @@ The dataset includes:
 
 ---
 
-# 📊 Dashboard Preview
-
-> Add your dashboard screenshots here
-
-Example:
-
-```md
-![Dashboard Screenshot](Screenshots/dashboard1.png)
-```
-
----
-
 # 🚀 How to Run the Project
 
 1. Open `dashboard_Job_analysis.pbix` in Power BI Desktop
